@@ -25,7 +25,7 @@ import java.util.stream.Stream;
  * 方法引用artist:getName 等价于 artist -> artist.getName();
  * 构造函数Artist:new 等价于 （name） -> new Artist(name);
  */
-public class BasicTypeDemo {
+public class HighLevelFunctionalTypeDemo {
 
     public List<Album> albumList = new ArrayList<>();
 
